@@ -3,7 +3,9 @@
 
 This work is part of <a href="https://www.kaggle.com/c/titanic">kaggle competition </a> where the main task is to predict the survival on titanic disaster.
 
-This notebooks will cover:
-1 - Data exploration
-2 - Data analysis
-3 - Machine learning model
+This notebooks cover:
+<ul>
+  <li> Data exploration </li>
+  <li> Data analysis </li>
+  <li> Machine learning model </li>
+</ul>
