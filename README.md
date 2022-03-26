@@ -3,7 +3,7 @@
 
 This work is part of <a href="https://www.kaggle.com/c/titanic">kaggle competition </a> where the main task is to predict the survival on titanic disaster.
 
-This notebooks cover:
+This notebook cover:
 <ul>
   <li> Data exploration </li>
   <li> Data analysis </li>
